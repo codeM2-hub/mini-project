@@ -1,0 +1,15 @@
+venv/
+node_modules/
+.env
+.DS_Store
+.vscode/
+logs/
+data/
+voice_data/
+anomaly_raw/
+anamoly_action_sequence_data_augmentated/
+sequence_action_data/
+models/
+debug_reports/
+__pycache__/
+*.pyc
